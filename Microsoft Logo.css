@@ -1,0 +1,13 @@
+div{
+    margin-left: 600px;
+    margin-top: 200px;
+}
+.microsoft {
+    background-color: #f25022;
+    box-shadow: 
+        105px 0 0 0 #7fba00, 
+        0 105px 0 0 #00a4ef, 
+        105px 105px 0 0 #ffb900;
+    height: 100px;
+    width: 100px;
+}
